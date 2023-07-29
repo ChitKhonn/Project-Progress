@@ -7,10 +7,16 @@
       "complete": true
     },
     {
-      "title": "asdf",
-      "detail": "sadfsa",
+      "title": "Simple Game Project",
+      "detail": "Used Technologies: Vue Js ",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Book Project",
+      "detail": "This project is about book.",
       "complete": false,
-      "id": 2
+      "id": 4
     }
   ]
 }
