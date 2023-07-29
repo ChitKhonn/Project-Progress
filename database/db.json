@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "project title 1 ",
+      "detail": "project detail ",
+      "complete": true
+    },
+    {
+      "title": "asdf",
+      "detail": "sadfsa",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
