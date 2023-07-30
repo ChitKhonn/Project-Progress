@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 1,
-      "title": "project title 1 ",
-      "detail": "project detail ",
+      "title": "mini calculator ",
+      "detail": "with react js ",
       "complete": true
     },
     {
